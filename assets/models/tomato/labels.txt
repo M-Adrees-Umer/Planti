@@ -1,0 +1,5 @@
+0 Tomato Healthy
+1 Tomato Bacterial Spot
+2 Tomato Early Blight
+3 Tomato Late Blight
+4 Tomato Leaf Mold
